@@ -10,3 +10,5 @@ class CoordinatesButton extends React.Component {
     return <button onClick={this.handleClick}>Coords</button>;
   }
 }
+
+export CoordinatesButton
